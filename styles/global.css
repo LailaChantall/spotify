@@ -1,0 +1,10 @@
+section {
+  display: flex;
+}
+body {
+  background-color: black;
+}
+h3 {
+  color: white;
+}
+
